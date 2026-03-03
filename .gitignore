@@ -1,0 +1,17 @@
+# Visual Studio 配置
+.vs/
+.vscode/
+.idea/
+
+# 可执行文件
+*.exe
+gorevault
+debug/
+
+# 依赖
+vendor/
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
