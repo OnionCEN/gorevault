@@ -3,10 +3,6 @@
 <p align="center">
   <a href="https://github.com/OnionCEN/gorevault">
   <img src="https://img.shields.io/github/stars/OnionCEN/gorevault?style=for-the-badge&logo=github&color=ff69b4&label=Stars" />
-</a>
-  <a href="https://discord.gg/fdThDK2Xgc">
-    <img src="https://img.shields.io/badge/Discord-加入群聊-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/QQ-158446355-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
 </p>
 
